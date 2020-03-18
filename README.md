@@ -27,4 +27,4 @@ python3 walkPlaylist.py [music dir]
 
 ## Details
 
-Link: [根据文件夹生成Walkman播放列表——walkPlaylist](https://www.ohmysites.com/repos/walkplaylist.html)
+Link: [根据文件夹生成Walkman播放列表——walkPlaylist](https://www.ohmysites.com/code/walkplaylist.html)
