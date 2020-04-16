@@ -15,8 +15,8 @@ Python3
 ## Usage
 
 ```sh
-chmod +x walkPlaylist.py [music dir]
-./walkPlaylist.py
+chmod +x walkPlaylist.py
+./walkPlaylist.py [music dir]
 ```
 
 or
