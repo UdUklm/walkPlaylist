@@ -10,7 +10,7 @@ Please sort the music files by folders according to the playlist you want to gen
 
 ## Requirement
 
-Python3
+`Python3`
 
 ## Usage
 
@@ -25,6 +25,16 @@ or
 python3 walkPlaylist.py [music dir]
 ```
 
-## Details
+## Show
 
-Link: [根据文件夹生成 Walkman 播放列表](https://www.ohmysites.com/archives/4/)
+这是一部分分好类的文件夹：
+
+![demo1](Image/demo1.png)
+
+运行脚本：
+
+![demo2](Image/demo2.png)
+
+在同级目录下生成了播放列表文件：
+
+![demo3](Image/demo3.png)
